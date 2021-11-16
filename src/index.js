@@ -184,7 +184,7 @@ module.exports = () => ({
 
     // Now add a summary
     html += `
-      <h1 class="text-primary">TestCafe Test Summary</h1>
+      <h1 class="text-primary">TestCafe************ Test Summary</h1>
       <div class="client-logo" style="padding:15px"></div>
       <div class="bg-primary" style="padding:15px;box-shadow: 6px 6px 6px 6px #00000033;border-radius: 10px;">
         <h3>Summary</h3><br>
